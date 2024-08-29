@@ -16,11 +16,8 @@
 
 ![image](https://github.com/Chaitu-Tatipamula/Account-Abstraction/assets/107246959/de8b3889-8cc1-4d2d-803e-b11a9c2f8061)
 
-- check the transaction
 
-![image](https://github.com/Chaitu-Tatipamula/Account-Abstraction/assets/107246959/cd98e3c8-1426-4107-a4ca-6458618308c0)
-
-- in the transaction you can see the userop went through the entrypoint contract and we're just revealing the address but not our public key anywhere..!!
+- in the transaction the userop went through the entrypoint contract and we're just revealing the address but not our public key anywhere..!!
 
 
 # Setting up the project
