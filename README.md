@@ -19,6 +19,7 @@
 
 - in the transaction the userop went through the entrypoint contract and we're just revealing the address but not our public key anywhere..!!
 
+WalletFactory address 0x3dDFb5a58408fE486308cE9C99dAf4Cac6fd9Be7
 
 # Setting up the project
 use these for project setup on your local machine
